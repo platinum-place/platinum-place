@@ -1,8 +1,5 @@
 # Hola, soy Warlyn García 👋
 
-### 🚀 Desarrollador Full Stack | Especialista en Ecosistema Laravel
-
-Me enfoco en construir aplicaciones web robustas, escalables y visualmente atractivas. Actualmente estoy trabajando en proyectos de alta complejidad técnica utilizando arquitecturas modernas.
 ---
 
 ### 🛠 Mi Stack Tecnológico
@@ -18,16 +15,16 @@ Me enfoco en construir aplicaciones web robustas, escalables y visualmente atrac
 
 ---
 
-### 🚀 Laravel REST API Specialist | Integraciones de Terceros
+### 🚀 Desarrollador Full Stack | Especialista en Ecosistema Laravel
 
-Me especializo en el desarrollo de backends de alto rendimiento y herramientas administrativas con el ecosistema de **Laravel 12** y **Filament v5**. Mi enfoque principal es la automatización de procesos empresariales y el cumplimiento fiscal.
+Me enfoco en construir aplicaciones web robustas, escalables y visualmente atractivas. Actualmente estoy trabajando en proyectos de alta complejidad técnica utilizando arquitecturas modernas. Me especializo en el desarrollo de backends de alto rendimiento y herramientas administrativas con el ecosistema de **Laravel 12** y **Filament v5**. Mi enfoque principal es la automatización de procesos empresariales y el cumplimiento fiscal.
 
 ---
 
 ### 📂 En qué me enfoco actualmente
 
 *   🔌 **Integraciones de APIs:** Experiencia profunda conectando ecosistemas de **Zoho**, **Microsoft** y **Mapfre** para flujos de trabajo automatizados.
-*   🧾 **Fiscal & Compliance:** Implementación de sistemas de **Facturación ectrónica** e integraciones con la **DGII** (República Dominicana).
+*   🧾 **Facturación Electrónica:** Implementación de sistemas de **Facturación ectrónica** e integraciones con la **DGII** (República Dominicana).
 *   🏥 **Soluciones de Seguros:** Desarrollo de motores de **Cotización de Seguros** complejos con lógica de negocio dinámica y generación de documentos.
 *   🔐 **Seguridad de APIs:** Implementación de estándares de autenticación con**Laravel Passport** para proteger servicios REST.
 *   📊 **Paneles Administrativos:** Creación de interfaces de gestión avanzadas y minimalistas utilizando **Filament PHP** y **Tailwind CSS v4**.
@@ -35,11 +32,6 @@ Me especializo en el desarrollo de backends de alto rendimiento y herramientas a
 ---
 
 ### 📊 Estadísticas de Actividad
-![Estadísticas de platinum-place](https://github-readme-stats.vercel.app/api?username=platinum-place&show_icons=true&theme=radical&count_private=true)![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=platinum-place&layout=compact&theme=radical)
-
----
-
-### 📊 Mis Estadísticas de GitHub
 ![Estadísticas de platinum-place](https://github-readme-stats.vercel.app/api?username=platinum-place&show_icons=true&theme=radical&count_private=true)![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=platinum-place&layout=compact&theme=radical)
 
 ---
