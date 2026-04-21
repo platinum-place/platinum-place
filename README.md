@@ -1,7 +1,5 @@
 # Hola, soy Warlyn García 👋
 
----
-
 ### 🛠 Mi Stack Tecnológico
 
 | Backend | Frontend | Herramientas |
